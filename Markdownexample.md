@@ -14,15 +14,17 @@ The following is a blockquote:
 > This is the second line of a blockquote
 > This is the third line of a blockquote
 
-I am using 'git'.
+I am using `git`.
 
 This is a code block:
 
-'''
+```
 
 git add .
 git commit -m "message here"
 git push origin main
+
+```
 
 To add links to [Example.com](https://www.example.com).
 
@@ -33,6 +35,6 @@ To add links to [Example.com](https://www.example.com).
 An ordered list:
 
 1.This is the first item
-2 This is the second item
-3. This is the third item
+2.This is the second item
+3.This is the third item
 
