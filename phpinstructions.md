@@ -16,7 +16,7 @@ Now, check its status to ensure there are no errors:
 
 To check it's been installed and working with Apache2, create a small php file in the web document root. 
 
-To do that, **cd** to the /var/www/html/ directory and create a file called **info.php**:
+To do that, **cd** to the **/var/www/html/** directory and create a file called **info.php**:
 
 > cd /var/www/html/
 >sudo nano info.php
@@ -29,9 +29,9 @@ You should see a page about PHP, Apache2 and the server.
 
 ## Basic Configurations 
 
-If our plan is to provide for PHP, we want Apache2 to default to a file titled index.php instead of index.html file.
+If our plan is to provide for PHP, we want Apache2 to default to a file titled **index.php** instead of **index.html** file.
 
-To do that, edit the dir.conf file in the /etc/apache2/mods-enabled/ directory. 
+To do that, edit the **dir.conf** file in the **/etc/apache2/mods-enabled/** directory. 
 
 Before we make any changes, create a backup file just in case there is a disaster.
 
@@ -39,11 +39,11 @@ Before we make any changes, create a backup file just in case there is a disaste
 >sudo cp dir.conf dir.conf.bak
 >sudo nano dir.conf
 
-Open the file dir.conf. We need to change this line to this:
+Open the file **dir.conf**. We need to change this line to this:
 
 > DirectoryIndex index.php index.html index.cgi index.pl index.xhtml index.htm
 
-Since we made a cofniguration change, use **apachectl** to check the configuration:
+Since we made a configuration change, use **apachectl** to check the configuration:
 
 > apachectl configtest
 
@@ -83,6 +83,6 @@ Save the file and exit **nano**.
 
 Visit your external IP address again:
 
-> http://34.174.114.102/
+http://34.174.114.102/
 
 
