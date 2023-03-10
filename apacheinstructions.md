@@ -27,7 +27,7 @@ Ensure the server is up and running. Use **systemctl** to look up information ab
 It should say enabled *and* running. 
 
 
-### Creating a web page 
+## Creating a web page 
 
 Install the web browser w3m on the command line now to look at the web page. 
 
@@ -38,7 +38,7 @@ Visit the sitevia the command line by writing the following:
 
 
 
-#### Create a web page
+## Create a web page
 
 The default pages are at **/var/www/html**. Navigate to the directory and create a page in the text editor, nano.
 
