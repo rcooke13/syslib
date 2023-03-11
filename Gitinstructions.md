@@ -1,6 +1,6 @@
 # Git Instructions 
 
-## Written by Dr. Sean Burns
+## Taken from Dr. Sean Burns' Git Instructions
 
 ### Setup Git and GitHub
 
