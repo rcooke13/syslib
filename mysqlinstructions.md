@@ -1,5 +1,7 @@
 # MySQL Installation & Set-up
 
+The following was taken out of Dr. Burns' Git Instructions. 
+
 Install the MySQL Community Server:
 
 `sudo apt install mysql-server`
