@@ -5,13 +5,13 @@ This project was developed for a graduate Systems Librarianship class and docume
 This project uses WordPress for its content management system to create and manage the library website, and links to Koha, the the Integrated Library System (ILS), and Omeka, the digital repository, to manage library collections, cataloging, circulation, and the OPAC.
 
 ## Technologies Used
--**Koha**: Integrated Library System (ILS) and OPAC
--**Wordpress**: Library website content management
--**PHP**: A server-side scripting language that builds and powers the website
--**MySQL**: Manages the accounts and databases
--**Apache**: Web Server
--**Linux**: Operating system and Linux command line environment
--**Bash**: Shell scripting, task automation, and systems administration 
+- **Koha**: Integrated Library System (ILS) and OPAC
+- **Wordpress**: Library website content management
+- **PHP**: A server-side scripting language that builds and powers the website
+- **MySQL**: Manages the accounts and databases
+- **Apache**: Web Server
+- **Linux**: Operating system and Linux command line environment
+- **Bash**: Shell scripting, task automation, and systems administration 
 
 ## Installation and Configuration 
 The project involved:
