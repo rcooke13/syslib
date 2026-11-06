@@ -1,4 +1,4 @@
-# Systems Librarianship: Installing, configuring, and administering a library website and OPAC
+# Systems Librarianship: Coding, configuring, and administering a library website and OPAC
 
 ## Project Overview
 This project was developed for a graduate Systems Librarianship class and documents the installation, configuration, and administration of a library website and Online Public Access Catalog (OPAC).
