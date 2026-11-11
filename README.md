@@ -6,8 +6,8 @@ This project uses WordPress for its content management system to create and mana
 
 ## Technologies Used
 - **Koha**: Integrated Library System (ILS) and OPAC
-- **Wordpress**: Library website content management
-- **PHP**: A server-side scripting language that builds and powers the website
+- **Wordpress**: Library's content management system
+- **PHP**: A server-side scripting language that builds, powers, and gives dynamism to the website
 - **MySQL**: Manages the accounts and databases
 - **Apache**: Web Server
 - **Linux**: Operating system and Linux command line environment
@@ -15,7 +15,7 @@ This project uses WordPress for its content management system to create and mana
 
 ## Installation and Configuration 
 The project involved:
-1. Setting up the Linux server environment in a Google Instance, and coding.
+1. Setting up the Linux/Bash server environment in a Google Instance, and coding.
 2. Installing and configuring the Apache web server and the PHP scripting language.
 4. Installing and configuring the MySQL relational database to build and manage user accounts and databases.
 5. Creating catalog records in MySQL.
